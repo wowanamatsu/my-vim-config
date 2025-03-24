@@ -1,1 +1,3 @@
+sudo apt install i3-wm i3status suckless-tools xfce4-terminal
+
 sudo apt install nitrogen lxappearance network-manager-gnome pcmanfm arc-theme papirus-icon-theme breeze-cursor-theme fonts-inconsolata fonts-open-sans fonts-font-awesome
