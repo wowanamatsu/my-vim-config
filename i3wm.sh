@@ -34,6 +34,8 @@ apt install -y \
     xterm \
     firefox-esr \
     picom \
+    nitrogen \
+    
     
 echo "--- 4. INSTALANDO REDE, ÁUDIO E CONTROLES DE VOLUME ---"
 apt install -y \
