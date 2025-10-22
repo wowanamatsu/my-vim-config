@@ -23,7 +23,8 @@ apt install -y \
     xserver-xorg-core \
     xinit \
     mesa-vulkan-drivers \
-    xserver-xorg-video-amdgpu
+    xserver-xorg-video-amdgpu \
+    arandr
     
 echo "--- 3. INSTALANDO I3WM, ROFI, PICOM E APLICAÇÕES CORE ---"
 apt install -y \
