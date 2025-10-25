@@ -54,3 +54,18 @@ apt install -y \
     lightdm-gtk-greeter \
     lxappearance \
     gtk2-engines-murrine
+
+
+
+
+
+
+
+
+
+Configurando Nvim com Lazyvim
+https://youtu.be/CbQGeaa8XrQ
+
+i3wm
+https://youtu.be/kWRQoLFntQc
+https://youtu.be/9OPn419gaZc
